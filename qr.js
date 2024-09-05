@@ -55,37 +55,38 @@ router.get('/', async (req, res) => {
 					await delay(5000);
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
-				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
+				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `❇️𝐇𝐞𝐥𝐩/𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
-⎆Welcome to BAD-BOI DOMAIN
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
+🖌𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫 😂
+🔇𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐃𝐫𝐚𝐠𝐨𝐧❌𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐏𝐚𝐢𝐫
 
-⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
+🔗Whatsapp Channel: https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39
 
-⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
+🔗Telegram Channel: https://t.me/dragonbugkiller
 
-⎆WhatsApp Number: +2349136616989
+🔗Whatsapp GC : https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z
 
-⎆GitHub: https://github.com/BADBOI-v1
+🔗Contact: +254796283064
 
-★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
+🔗GitHub: https://github.com/confronter
 
-✨WE are the Hackers Family 🔥✅
+📌𝐉𝐨𝐢𝐧 𝐭𝐡𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐛𝐨𝐯𝐞 𝐆𝐚𝐢𝐧 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐚𝐛𝐨𝐮𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲😌
+	   
+
+
 
 ` });
             await delay(1000 * 2) 
              const classic = await  Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
                Qr_Code_By_Maher_Zubair.groupAcceptInvite("DHGaGemwhxFKNXYkKCI9kV");
 		Qr_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
-             await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
-┌─❖
-│🪀 Hey
-└┬❖  
-┌┤✑  Thanks for using BAD-BOI Bot
-│└────────────┈ ⳹        
-│©2023-2024 BAD-BOI V2
-└─────────────────┈ ⳹\n\n ` }, {quoted: classic });
+             await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `❗️𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫 𝐝𝐨𝐧𝐭 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐢𝐬 𝐟𝐢𝐥𝐞 😂\n
+🔆𝐃𝐫𝐚𝐠𝐨𝐧 𝐚𝐧𝐝 𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐜𝐫𝐞𝐝𝐬
+❇️𝐄𝐧𝐣𝐨𝐲 𝐛𝐨𝐭 𝐚𝐧𝐝 𝐚𝐯𝐨𝐢𝐝 𝐒𝐭𝐨𝐫𝐢𝐞𝐬
+〽️𝐅𝐮𝐜𝐤𝐲𝐨𝐮😂
+🔰𝐌𝐚𝐝𝐞 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
+⳹\n\n ` }, {quoted: classic });
  
 
 					await delay(100);
