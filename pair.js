@@ -69,14 +69,16 @@ router.get('/', async (req, res) => {
 
 🔗GitHub: https://github.com/confronter
 
+💫Repo:  https://github.com/confronter/Deadpool-Md
+
 📌𝐉𝐨𝐢𝐧 𝐭𝐡𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐛𝐨𝐯𝐞 𝐆𝐚𝐢𝐧 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐚𝐛𝐨𝐮𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲😌
 
 
 ` });
             await delay(1000 * 2) 
              const classic = await  Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
-               Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH");
-                Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
+               Pair_Code_By_Maher_Zubair.groupAcceptInvite("FqvQzWARlwc7XlerabWq7z");
+                Pair_Code_By_Maher_Zubair.groupAcceptInvite("FqvQzWARlwc7XlerabWq7z")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `❗️𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫 𝐝𝐨𝐧𝐭 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐢𝐬 𝐟𝐢𝐥𝐞 😂\n
 🔆𝐃𝐫𝐚𝐠𝐨𝐧 𝐚𝐧𝐝 𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐜𝐫𝐞𝐝𝐬
 ❇️𝐄𝐧𝐣𝐨𝐲 𝐛𝐨𝐭 𝐚𝐧𝐝 𝐚𝐯𝐨𝐢𝐝 𝐒𝐭𝐨𝐫𝐢𝐞𝐬
